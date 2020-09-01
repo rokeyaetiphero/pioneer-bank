@@ -32,3 +32,8 @@ body{
 {
     background-color: indianred;
 }
+
+#transaction-area
+{
+    display: none;
+}
