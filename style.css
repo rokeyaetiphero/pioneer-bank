@@ -20,17 +20,17 @@ body{
 
 .deposit
 {
-    background-color: brown;
+    background-image: linear-gradient(burlywood,cadetblue);
 }
 
 .withdraw
 {
-    background-color: green;
+    background-image: linear-gradient(darkgray,black);
 }
 
 .balance
 {
-    background-color: indianred;
+    background-image: linear-gradient(cornsilk,dimgrey);
 }
 
 #transaction-area
